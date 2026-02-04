@@ -5,6 +5,12 @@
       "rev": "1801b0541f4fda118a10798fd3486bb7051c5dd6"
     }
   },
+  "lib/murky": {
+    "tag": {
+      "name": "v0.1.0",
+      "rev": "5feccd1253d7da820f7cccccdedf64471025455d"
+    }
+  },
   "lib/openzeppelin-contracts": {
     "tag": {
       "name": "v5.5.0",
